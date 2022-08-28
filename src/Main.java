@@ -91,9 +91,9 @@ public class Main {
         double beforeKristina = kristina * year;
         double afterKristina =  kristina1 * year;
         double differenceKristina = afterKristina - beforeKristina;
-        System.out.println("Маша теперь получает " + masha1 + "рублей. Годовой доход вырос на " + differenceMasha + " рублей");
-        System.out.println("Денис теперь получает " + denis1 + "рублей. Годовой доход вырос на " + differenceDenis + " рублей");
-        System.out.println("Кристина теперь получает " + kristina1 + "рублей. Годовой доход вырос на " + differenceKristina + " рублей");
+        System.out.println("Маша теперь получает " + masha1 + " рублей. Годовой доход вырос на " + differenceMasha + " рублей");
+        System.out.println("Денис теперь получает " + denis1 + " рублей. Годовой доход вырос на " + differenceDenis + " рублей");
+        System.out.println("Кристина теперь получает " + kristina1 + " рублей. Годовой доход вырос на " + differenceKristina + " рублей");
 
     }
 }
